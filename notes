@@ -1,0 +1,4 @@
+npm i -g express-generator
+npm --ejs foldername  or just type express
+npm install -g nodemon
+npm i ejs --> if ejs is not recognized
